@@ -1,9 +1,4 @@
-<div align="center">
-  <!-- Тот самый анимированный баннер. Можешь менять цвета (color=0FAAFF) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0FAAFF&height=250&section=header&text=Hello,%20I'm%20Vladislav&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20SAP%20CAP%20|%20Backend%20Developer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
-</div>
-
-# 👋 Hi there, I'm Vladislav 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Vladislav%20(G0nrate)&fontSize=55&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20SAP%20CAP%20|%20Backend%20Bots&descAlignY=55&descAlign=50" width="100%" alt="Header" /></div>
 
 **`Software Engineer` | `SAP CAP Enthusiast` | `Backend Developer`**
 
@@ -33,25 +28,8 @@ I'm a final-year **Software Engineering** student focused on building scalable b
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=G0nrate&theme=radical&row=1&column=6&no-frame=true&no-bg=true" alt="G0nrate Trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G0nrate&show_icons=true&theme=radical" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G0nrate&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
-<div align="center">
+<div align="left">
   <!-- Вставь свои реальные ссылки вместо YOUR_LINKEDIN и YOUR_TG_USERNAME -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/YOUR_TG_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
