@@ -30,7 +30,6 @@ I'm a final-year **Software Engineering** student focused on building scalable b
 
 ### 📫 Let's Connect
 <div align="left">
-  <!-- Вставь свои реальные ссылки вместо YOUR_LINKEDIN и YOUR_TG_USERNAME -->
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://t.me/YOUR_TG_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/Gonrate"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
